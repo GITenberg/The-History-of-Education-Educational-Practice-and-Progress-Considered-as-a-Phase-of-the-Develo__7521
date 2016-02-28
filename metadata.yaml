@@ -1,0 +1,25 @@
+_repo: The-History-of-Education-Educational-Practice-and-Progress-Considered-as-a-Phase-of-the-Develo__7521
+creator:
+  author:
+    agent_name: Cubberley, Ellwood Patterson
+    alias: Cubberley, Ellwood P.
+    birthdate: 1868
+    deathdate: 1941
+    gutenberg_agent_id: '2501'
+    url: http://www.gutenberg.org/2009/agents/2501
+    wikipedia: http://en.wikipedia.org/wiki/Ellwood_Patterson_Cubberley
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7521'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LA'
+- !lcsh 'Education -- History'
+title: "The History of Education\r\nEducational Practice and Progress Considered as\
+  \ a Phase of the Development and Spread of Western Civilization"
+url: http://www.gutenberg.org/ebooks/7521
